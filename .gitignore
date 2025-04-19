@@ -2,6 +2,7 @@
 bin/
 obj/
 out/
+deploy.bat
 
 # Ignore user-specific files
 *.user

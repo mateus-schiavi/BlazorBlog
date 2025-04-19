@@ -2,7 +2,6 @@
 bin/
 obj/
 out/
-publish/
 
 # Ignore user-specific files
 *.user
